@@ -1,4 +1,4 @@
-# Comparative Analysis of Feature Engineering Strategies for Phishing URL Detection using the PhiUSIIL Dataset
+# Phishing URL Detection using the PhiUSIIL Dataset
 
 <img align="right" width="400" src="/assets/IMG/figure1_architecture.png">
 
@@ -13,7 +13,6 @@ Dr. Alexander Lozinski
 December 5, 2025
 
 <br>
-
 Phishing attacks continue to pose a significant cybersecurity threat, with detection systems relying increasingly on machine learning techniques to identify fraudulent URLs. This study presents a comparative analysis of feature engineering strategies for phishing URL detection using the PhiUSIIL dataset, which contains 235,795 URLs with three distinct feature categories: URL-based, HTML-based, and derived features.
 
 We evaluate the discriminative power of each feature category using classical machine learning models including Logistic Regression, Random Forest, and XGBoost. Our results demonstrate that models trained on URL and HTML features achieve near-perfect classification performance (99.98% accuracy), substantially outperforming URL-only configurations (99.80% accuracy). Feature importance analysis reveals that HTML features such as NoOfExternalRef and NoOfImage provide the strongest discriminative signal, while derived features based on third-party legitimate URL databases contribute minimal additional value when HTML features are present.
