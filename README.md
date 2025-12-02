@@ -18,7 +18,7 @@ We evaluate the discriminative power of each feature category using classical ma
 Additionally, TF-IDF vectorization of raw URL strings achieves competitive performance (99.70% accuracy) without manual feature engineering, though generalizability concerns remain. These results offer practical guidance for balancing detection accuracy against computational cost in phishing URL detection systems, while highlighting the critical limitation of potential model overfitting to specific datasets.
 <br>
 
-## [Report](/assets/AOS_SCI_C111_Final_Project.pdf)
+## [Report](/AOS_SCI_C111_Final_Project.pdf)
 
 ## [Data](https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset)
 
