@@ -19,7 +19,6 @@ Phishing attacks continue to pose a significant cybersecurity threat, with detec
 We evaluate the discriminative power of each feature category using classical machine learning models including Logistic Regression, Random Forest, and XGBoost. Our results demonstrate that models trained on URL and HTML features achieve near-perfect classification performance (99.98% accuracy), substantially outperforming URL-only configurations (99.80% accuracy). Feature importance analysis reveals that HTML features such as NoOfExternalRef and NoOfImage provide the strongest discriminative signal, while derived features based on third-party legitimate URL databases contribute minimal additional value when HTML features are present.
 
 Additionally, TF-IDF vectorization of raw URL strings achieves competitive performance (99.70% accuracy) without manual feature engineering, though generalizability concerns remain. These findings provide practical guidance for balancing detection accuracy against computational cost in phishing URL detection systems, while highlighting the critical limitation of potential model overfitting to specific datasets.
-
 <br>
 
 ## [Report](/assets/AOS_SCI_C111_Final_Project.pdf)
