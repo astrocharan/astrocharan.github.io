@@ -21,6 +21,6 @@ Additionally, TF-IDF vectorization of raw URL strings achieves competitive perfo
 
 ## [Report](/assets/AOS_SCI_C111_Final_Project.pdf)
 
-## [Preprocessed Data](https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset)
+## [Data](https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset)
 
 ## [Code](https://colab.research.google.com/drive/1dHjL9VodZVov5zbB7-QWdXVVWBn39YIJ?usp=sharing)
