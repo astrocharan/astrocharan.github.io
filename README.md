@@ -1,7 +1,5 @@
 # Phishing URL Detection using the PhiUSIIL Dataset
 
-<img align="right" width="400" src="/assets/IMG/figure1_architecture.png">
-
 **Sai Charan Petchetti**
 
 University of California, Los Angeles
