@@ -11,7 +11,7 @@ Dr. Alexander Lozinski
 December 5, 2025
 <br>
 
-Phishing attacks continue to constitute a major cybersecurity threat, with detection systems increasingly relying on machine learning techniques to identify malicious URLs. This study presents acomparative analysis of feature engineering strategies for phishing URL detection using the PhiUSIIL dataset, which contains 235,795 URLs with three distinct feature categories: URL-based, HTML-based,
+Phishing attacks continue to constitute a major cybersecurity threat, with detection systems increasingly relying on machine learning techniques to identify malicious URLs. This study presents a comparative analysis of feature engineering strategies for phishing URL detection using the PhiUSIIL dataset, which contains 235,795 URLs with three distinct feature categories: URL-based, HTML-based,
 and derived features.
 
 We assess how effectively each feature category distinguishes between legitimate and phishing sites through classical machine learning algorithms such as Logistic Regression, Random Forest, and XGBoost. Our findings show that models trained on URL and HTML features achieve near-perfect classification performance (99.98% accuracy), significantly outperforming URL-only configurations (99.80% accuracy). Feature importance analysis indicates that HTML features such as *NoOfExternalRef* and *NoOfImage* provide the most discriminative power, while derived features based on third-party datasets of legitimate URLs add little to no additional value when HTML features are present.
