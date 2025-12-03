@@ -9,6 +9,7 @@ AOS SCI C111: Introduction to Machine Learning for the Physical Sciences
 Dr. Alexander Lozinski
 
 December 5, 2025
+
 <br>
 Phishing attacks continue to constitute a major cybersecurity threat, with detection systems increasingly relying on machine learning techniques to identify malicious URLs. This study presents acomparative analysis of feature engineering strategies for phishing URL detection using the PhiUSIIL dataset, which contains 235,795 URLs with three distinct feature categories: URL-based, HTML-based,
 and derived features.
