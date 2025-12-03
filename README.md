@@ -10,7 +10,7 @@ Dr. Alexander Lozinski
 
 December 5, 2025
 
-## [Report](/AOS_SCI_C111_Final_Project.pdf)
+## [Report](/assets/AOS_SCI_C111_Final_Project.pdf)
 
 ## [Data](https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset)
 
